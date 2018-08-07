@@ -1,0 +1,9 @@
+org\xtext\example\mydsl2\ide\MyDsl2IdeModule.class
+org\xtext\example\mydsl2\ide\contentassist\antlr\MyDsl2Parser.class
+org\xtext\example\mydsl2\ide\MyDsl2IdeSetup.class
+org\xtext\example\mydsl2\ide\contentassist\antlr\internal\InternalMyDsl2Lexer.class
+org\xtext\example\mydsl2\ide\contentassist\antlr\internal\InternalMyDsl2Parser.class
+org\xtext\example\mydsl2\ide\contentassist\antlr\MyDsl2Parser$NameMappings.class
+org\xtext\example\mydsl2\ide\AbstractMyDsl2IdeModule.class
+org\xtext\example\mydsl2\ide\contentassist\antlr\PartialMyDsl2ContentAssistParser.class
+org\xtext\example\mydsl2\ide\contentassist\antlr\internal\InternalMyDsl2Lexer$DFA12.class

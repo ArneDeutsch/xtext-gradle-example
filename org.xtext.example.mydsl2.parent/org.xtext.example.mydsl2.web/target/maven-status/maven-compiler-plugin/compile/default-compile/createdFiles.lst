@@ -1,0 +1,5 @@
+org\xtext\example\mydsl2\web\AbstractMyDsl2WebModule.class
+org\xtext\example\mydsl2\web\ServerLauncher.class
+org\xtext\example\mydsl2\web\MyDsl2Servlet.class
+org\xtext\example\mydsl2\web\MyDsl2WebModule.class
+org\xtext\example\mydsl2\web\MyDsl2WebSetup.class
